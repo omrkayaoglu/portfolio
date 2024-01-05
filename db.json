@@ -1,0 +1,49 @@
+{
+    "experiences":[
+        {
+            "company": "Çayırova Belediyesi",
+            "position": "Intern Computer Engineer",
+            "startDate": "July 2023",
+            "endDate": "Semptember 2023",
+            "description": "Working on various software projects..."
+        }
+    ],
+    "projects":[
+        {
+            "name ": "Weather App",
+            "description": "With React",
+            "imgId":"4",
+            "link":"https://github.com/omrkayaoglu/weather_app"
+          },
+          {
+            "name" : "Bin Packing Problem",
+            "description": "With Python",
+            "imgId":"2",
+            "link":"https://github.com/omrkayaoglu/bin-packing"
+          },
+          {
+            "name" : "E-comm site",
+            "description": "With Angular",
+            "imgId":"7",
+            "link":"https://github.com/omrkayaoglu/angular-ecom"
+          },
+          {
+            "name" : "E-comm site",
+            "description": "With Javascript",
+            "imgId":"3",
+            "link":"https://github.com/omrkayaoglu/Bootstrap-ve-javascript-ile-alis-veris-sitesi"
+          },
+          {
+            "name" : "Quiz App",
+            "description": "With Angular",
+            "imgId":"5",
+            "link":"https://github.com/omrkayaoglu/Quiz-App"
+          },
+          {
+            "name" : "Mobile App",
+            "description": "With React Native",
+            "imgId":"1",
+            "link":"https://github.com/omrkayaoglu/Armut"
+          }
+    ]
+}
